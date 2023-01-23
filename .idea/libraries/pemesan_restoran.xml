@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pemesan-restoran">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/pemesan-restoran.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
