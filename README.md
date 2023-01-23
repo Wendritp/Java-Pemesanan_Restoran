@@ -27,3 +27,11 @@ Manu Masakan Screen
 Report Transaksi
 
 ![image](https://user-images.githubusercontent.com/44396891/213963247-94b3f820-2078-4e9e-8861-abf1cc36ed75.png)
+
+
+## TEAM
+Hamidatun Nisa 		 			            21104063 <br>
+Muhammad Atsal Rizandri 	 		      21104057 <br>
+Muhammad Widya Tirta CahyaTama	 	  21104047 <br>
+Satria Putra Dharma Prayudha 			  21104036 <br>
+Wendri Tri Pambudi 				          21104048 <br>
